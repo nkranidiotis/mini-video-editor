@@ -19,9 +19,8 @@ It provides a dark-themed GUI with basic yet powerful features for trimming, cro
 
 ## 📸 Screenshot
 
-![Mini Video Editor UI](docs/banner.png)
+![Mini Video Editor UI](screenshot-mini-video-editor.png)
 
-*(Example marketing banner — dark UI with trim fields and extras panel)*
 
 ---
 
