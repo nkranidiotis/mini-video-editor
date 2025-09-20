@@ -31,3 +31,15 @@ It provides a dark-themed GUI with basic yet powerful features for trimming, cro
 ```bash
 git clone https://github.com/nkranidiotis/mini-video-editor.git
 cd mini-video-editor
+pip install PyQt6 opencv-python numpy
+python video_editor.py
+```
+
+⚠️ Make sure you have FFmpeg installed and available in your system PATH.
+Download FFmpeg: https://ffmpeg.org/download.html
+
+## 🚀 Usage
+Open the app and drag-and-drop a video or select a file.
+Set In and Out times manually or with the trim fields.
+Adjust extras (speed, grayscale, text overlay).
+Click Export (FFmpeg integration required).
