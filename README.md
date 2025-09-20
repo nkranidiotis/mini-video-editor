@@ -1,7 +1,7 @@
 # Mini Video Editor – PyQt6
 
 🎬 **Mini Video Editor** is a lightweight, cross-platform prototype built in **Python (PyQt6)**.  
-It provides a dark-themed GUI with basic yet powerful features for trimming, cropping, and editing videos, inspired by professional tools like DaVinci Resolve — but simplified and open for extension.
+It provides a dark-themed GUI with basic yet powerful features for trimming, cropping, and editing videos, inspired by professional tools like DaVinci Resolve, but simplified and open for extension.
 
 ---
 
